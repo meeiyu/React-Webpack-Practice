@@ -1,0 +1,30 @@
+{
+  "name": "React-Webpack-Practice",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/meeiyu/React-Webpack-Practice.git"
+  },
+  "bugs": {
+    "url": "https://github.com/meeiyu/React-Webpack-Practice/issues"
+  },
+  "devDependencies": {
+    "babel-core": "^4.7.16",
+    "babel-loader": "^4.2.0",
+    "css-loader": "^0.9.1",
+    "file-loader": "^0.8.1",
+    "jsx-loader": "^0.12.2",
+    "react-hot-loader": "^1.2.4",
+    "style-loader": "^0.9.0",
+    "url-loader": "^0.5.5",
+    "webpack": "^1.7.3"
+  },
+  "dependencies": {
+    "react": "^0.13.1",
+    "webpack-dev-server": "^1.8.0"
+  }
+}
